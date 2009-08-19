@@ -1,0 +1,207 @@
+// !$*UTF8*$!
+{
+	089C165DFE840E0CC02AAC07 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {933, 660}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 100}";
+			sepNavWindowFrame = "{{38, 64}, {992, 788}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeArchitecture = i386;
+		activeBuildConfigurationName = Release;
+		activeExecutable = 8157E3BE0D49823700B565A7 /* enjapen */;
+		activeTarget = 8D1107260486CEB800E47090 /* enjapen */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* enjapen */,
+		);
+		breakpoints = (
+			81C4B58A0D4BDBA200216E67 /* Wiimote.py:20 */,
+		);
+		codeSenseManager = 8157E3C70D49823B00B565A7 /* Code sense */;
+		executables = (
+			8157E3BE0D49823700B565A7 /* enjapen */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					172,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					203,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 234570196;
+			PBXWorkspaceStateSaveDate = 234570196;
+		};
+		sourceControlManager = 8157E3C60D49823B00B565A7 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1196, 700}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1810}";
+			sepNavWindowFrame = "{{38, 64}, {992, 788}}";
+		};
+	};
+	32CA4F630368D1EE00C91783 /* enjapen_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {933, 660}}";
+			sepNavSelRange = "{138, 7}";
+			sepNavVisRange = "{0, 145}";
+			sepNavWindowFrame = "{{15, 85}, {992, 788}}";
+		};
+	};
+	77631A3E0C0748CF005415CB /* main.py */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {933, 660}}";
+			sepNavSelRange = "{177, 0}";
+			sepNavVisRange = "{0, 426}";
+			sepNavWindowFrame = "{{204, 66}, {992, 788}}";
+		};
+	};
+	7790198E0C07548A00326F66 /* enjapenAppDelegate.py */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {925, 1498}}";
+			sepNavSelRange = "{3235, 0}";
+			sepNavVisRange = "{822, 1165}";
+			sepNavWindowFrame = "{{253, 169}, {984, 647}}";
+		};
+	};
+	8157E3BE0D49823700B565A7 /* enjapen */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = enjapen;
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+	};
+	8157E3C60D49823B00B565A7 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	8157E3C70D49823B00B565A7 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	818FFF9E0D72416100E747E9 /* Canvas.py */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {925, 1652}}";
+			sepNavSelRange = "{611, 0}";
+			sepNavVisRange = "{241, 1285}";
+		};
+	};
+	818FFFF50D72727B00E747E9 /* perspective.py */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {925, 2170}}";
+			sepNavSelRange = "{336, 0}";
+			sepNavVisRange = "{0, 910}";
+			sepNavWindowFrame = "{{144, 87}, {984, 647}}";
+		};
+	};
+	81A128050D68048B00E52C02 /* WiiMote.py */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {930, 2646}}";
+			sepNavSelRange = "{2976, 0}";
+			sepNavVisRange = "{2255, 1386}";
+			sepNavWindowFrame = "{{111, 99}, {989, 725}}";
+		};
+	};
+	81C4B5220D4BC21700216E67 /* Wiimote.py */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = text.script.python;
+		name = Wiimote.py;
+		path = /Users/enj/programming/hci/enjapen/Wiimote.py;
+		sourceTree = "<absolute>";
+	};
+	81C4B58A0D4BDBA200216E67 /* Wiimote.py:20 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 81C4B5220D4BC21700216E67 /* Wiimote.py */;
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 20;
+		modificationTime = 225610263.585362;
+		state = 1;
+	};
+	8D1107260486CEB800E47090 /* enjapen */ = {
+		activeExec = 0;
+		executables = (
+			8157E3BE0D49823700B565A7 /* enjapen */,
+		);
+	};
+	8D1107310486CEB800E47090 /* Info.plist */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {933, 660}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 897}";
+			sepNavWindowFrame = "{{15, 85}, {992, 788}}";
+		};
+	};
+}
