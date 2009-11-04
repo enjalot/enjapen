@@ -41,12 +41,12 @@ WiiRemoteDelegate = objc.informal_protocol(
         objc.selector(None,
             selector="accelerationChanged:accX:accY:accZ:",
             signature="v@:SSSS", isRequired=False),
-        objc.selector(None,
-            selector="joyStickChanged:tiltX:tiltY:",
-            signature="v@:SSS", isRequired=False),
-        objc.selector(None,
-            selector="analogButtonChanged:amount:", 
-            signature="v@:SS", isRequired=False),
+        #objc.selector(None,
+        #    selector="joyStickChanged:tiltX:tiltY:wiiRemote:",
+        #    signature="v@:SSS", isRequired=False),
+        #objc.selector(None,
+        #    selector="analogButtonChanged:amount:", 
+        #    signature="v@:SS", isRequired=False),
         objc.selector(None, 
             selector="batteryLevelChanged:",
             signature="v@:d", isRequired=False),
@@ -74,13 +74,13 @@ class wii_remote_delegate(NSObject):
         #print 'accelerationChanged:accX:accY:accZ:', type, accX, accY, accZ
         pass
 
-    def joyStickChanged_tiltX_tiltY_wiiRemote_(self, type, tiltX, tiltY):
+    #def joyStickChanged_tiltX_tiltY_wiiRemote_(self, type, tiltX, tiltY):
         #print 'joyStickChanged:tiltX:tiltY:'
-        pass
+    #    pass
 
-    def analogButtonChanged_amount_wiiRemote_(self, type, press):
+    #def analogButtonChanged_amount_wiiRemote_(self, type, press):
         #print 'analogButtonChanged:amount:'
-        pass
+    #    pass
 
     def batterLevelChanged_(self, level):
         #print 'batteryLevelChanged:', level
